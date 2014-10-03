@@ -1,2 +1,2 @@
 #!/bin/bash
-psql superhero -f ~/Desktop/WDI_Class_Practice/databases/superheroes/insert_superheroes.sql
+psql superhero -f insert_superheroes.sql

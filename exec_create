@@ -1,2 +1,2 @@
 #!/bin/bash
-psql superhero -f ~/Desktop/WDI_Class_Practice/databases/superheroes/create_schema.sql
+psql superhero -f create_schema.sql
